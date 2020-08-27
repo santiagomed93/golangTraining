@@ -1,0 +1,4 @@
+INFO: 2020/08/26 21:36:42 main.go:28: This is info
+WARNING: 2020/08/26 21:36:42 main.go:29: Oh no, a warning!
+ERROR: 2020/08/26 21:36:42 main.go:30: Error!, please stop
+FATAL: 2020/08/26 21:36:42 main.go:31: Program Quit!
